@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AircraftConnectionThreatDetection Unit Test should render Listing Component 1`] = `ReactWrapper {}`;
+
+exports[`AircraftConnectionThreatDetection Unit Test should render Listing Component with filters 1`] = `ReactWrapper {}`;
